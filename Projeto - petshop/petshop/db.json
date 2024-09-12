@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "srcImg": "src/img/prod2.png",
+      "preco": 30.00,
+      "titulo": "Ração Whiskas para gatos",
+      "descricao": "As rações WHISKAS® contam com deliciosos nuggets recheados, que são crocantes por fora e macios por dentro. Seu gato vai correr para a tigela em todas as refeições!"
+    },
+    {
+      "id": 2,
+      "srcImg": "src/img/prod3.jpg",
+      "preco": 26.90,
+      "titulo": "Xô Bafinho - Hálito fresco",
+      "descricao": "Elimine o mau hálito, placa bacteriana e tártaro de forma saudável e segura. Já imaginou tratar os dentes bebendo água? Basta diluir Xô Bafinho na tigela do seu animalzinho para garantir a higiene dele!"
+    },
+    {
+      "id": 3,
+      "srcImg": "src/img/prod4.jpg",
+      "preco": 60.00,
+      "titulo": "Kit de brinquedos variáveis",
+      "descricao": "Grande kit de brinquedos para o seu animalzinho se divertir. Todos possuem uma alta qualidade. Aproveite!"
+    },
+    {
+      "id": 4,
+      "srcImg": "src/img/prod5.jpg",
+      "preco": 125.00,
+      "titulo": "Kit para tosa - completo",
+      "descricao": "Kit de boa qualidade para banho e tosa. Mantenha a higiene, a saúde e o conforto do seu pet, principalmente no verão ou em regiões mais quentes."
+    },
+    {
+      "id": 5,
+      "srcImg": "src/img/prod6.jpg",
+      "preco": 124.60,
+      "titulo": "Kit (coleira, cama e comedouro)",
+      "descricao": "O kit completo para o seu pet você encontra aqui. Contém os seguintes itens: uma cama confortável, uma coleira resistente e dois comedouros, além de uma caixa transporte."
+    },
+    {
+      "id": 6,
+      "srcImg": "src/img/prod7.jpg",
+      "preco": 63.00,
+      "titulo": "Cama confortável para gatos ou cães",
+      "descricao": "Conforto total. Dormir nunca foi tão bom! O descanso perfeito para o seu pet. Cama que abraça o seu animalzinho com amor e aconchego."
+    },
+    {
+      "id": 7,
+      "srcImg": "src/img/prod8.jpg",
+      "preco": 44.00,
+      "titulo": "Kit higiênico completo para gatos",
+      "descricao": "O kit serve para acomodar diferentes tipos de areia sanitária, como sílica, granulado de madeira e areia biodegradável, oferecendo conforto e praticidade para o seu gato. A higiene é sempre importante."
+    },
+    {
+      "id": 8,
+      "srcImg": "src/img/produto1.jpg",
+      "preco": 60.00,
+      "titulo": "Ração pedigree para cães",
+      "descricao": "PEDIGREE® é um alimento premium 100% completo e balanceado, que oferece uma nutrição profissional e focada nos primeiros meses de vida do seu melhor amigo, contribuindo para um desenvolvimento saudável e seguro."
+    }
+  ]
+}

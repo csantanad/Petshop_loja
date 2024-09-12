@@ -1,0 +1,73 @@
+header>nav>.navbar-brand {
+  margin-left: 20px;
+}
+
+header>div {
+  padding: 7px;
+  background-color: #f0b616;
+  text-align: center;
+}
+
+header>div>h2 {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+.param {
+  margin-bottom: 7px;
+  line-height: 1.4;
+}
+
+.param-inline dt {
+  display: inline-block;
+}
+
+.param dt {
+  margin: 0;
+  margin-right: 7px;
+  font-weight: 600;
+}
+
+.param-inline dd {
+  vertical-align: baseline;
+  display: inline-block;
+}
+
+.param dd {
+  margin: 0;
+  vertical-align: baseline;
+}
+
+.shopping-cart-wrap .price {
+  color: #007bff;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 5px;
+  display: block;
+}
+
+var {
+  font-style: normal;
+}
+
+.media img {
+  margin-right: 1rem;
+}
+
+.img-wrap {
+  width: 90px;
+  max-height: 75px;
+  object-fit: cover;
+}
+
+.botao-pagamento button {
+  margin: 1rem 0;
+  background-color: gray;
+  outline: none;
+  border: none;
+  color: white;
+  border-radius: 0.5rem;
+  height: 2rem;
+  width: 6rem;
+}

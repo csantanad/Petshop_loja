@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header > nav > .navbar-brand{
+  margin-left: 20px;
+}
+
+header > nav > div > .form-inline {
+  display: flex;
+  margin-left: 750px;
+}
+
+header > div{
+    padding: 7px;
+    background-color: #f0b616;
+    text-align: center;
+}
+
+header > div > h2{
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+main{
+    overflow-x: hidden;
+}
+
+main > #introducao{
+    background-image: url('https://static.wixstatic.com/media/b8c5b7_81074422f3de41f8813eaac3e45fc785~mv2.png/v1/fill/w_1595,h_847,al_r,q_90,usm_0.66_1.00_0.01,enc_auto/b8c5b7_81074422f3de41f8813eaac3e45fc785~mv2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+main > #introducao > h1{
+    display: inline-block;
+    margin: 240px 0px 0px 160px;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+main > #propaganda{
+    display: flex;
+    align-items: center;
+    box-shadow: inset 1px 1px 7px 1px rgba(0, 0, 0, 0.082);
+}
+
+main > #propaganda > #bloco {
+    width: 60px;
+    height: 400px;
+    background-color: #f0b616;
+}
+
+main > #propaganda > #mensagem{
+    display: flex;
+    margin-left: 50px;
+}
+
+main > #propaganda > #mensagem > #descricao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    margin-right: 500px;
+}
+
+main > #propaganda > #mensagem > div > h2{
+    border-bottom: 4px solid #f0b616;
+    font-size: 40px;
+}
+
+main > #propaganda > #mensagem > div > p{
+    font-size: 18px;
+}
+
+footer {
+    padding: 7px;
+    background-color: #f5cd60;
+}
+
+footer > p{
+    text-align: center;
+    margin: 0px;
+}

@@ -1,0 +1,81 @@
+
+header > nav > .navbar-brand{
+    margin-left: 20px;
+}
+
+header > nav > div > .form-inline {
+    display: flex;
+    margin-left: 730px;
+}
+
+#titulo{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.products {
+    display: flex;
+    width: 1100px;
+    margin: 40px auto 20px auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-product{
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.288);
+    border-radius: 10px;
+    width: 210px;
+    height: 320px;
+    padding: 10px;
+    margin: 0px 30px 40px 30px;
+}
+
+.card-product > img {
+    width: 190px;
+    height: 165px;
+}
+
+.card-product h2{
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+    transition: 0.3s all;
+}
+
+.card-product h2:hover{
+    cursor: pointer;
+    color: #666666;
+}
+
+.card-product p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: rgb(179, 154, 13);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.178);
+}
+
+.card-product button{
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(243, 210, 20);
+    color: white;
+    margin-left: 13px;
+    transition: 0.2s;
+}
+
+.card-product button:hover{
+    background-color: rgb(218, 185, 3);
+}
+
+footer {
+    padding: 7px;
+    background-color: #f5cd60;
+}
+
+footer > p{
+    text-align: center;
+    margin: 0px;
+}
